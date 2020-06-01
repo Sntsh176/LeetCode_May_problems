@@ -22,6 +22,7 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 Example 2:
 
 Input: A = [2,5,1,2,5], B = [10,5,2,1,5,2]
+
 Output: 3
 Example 3:
 
